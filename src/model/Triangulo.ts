@@ -1,4 +1,5 @@
 import {Schema, model } from 'mongoose'
+
 export class Triangulo{
     private _base: number
     private _lado2: number
